@@ -1,0 +1,8 @@
+Symbol: C, Frequency: 1, Code: 01011
+Symbol: S, Frequency: 1, Code: 0011
+Symbol: ., Frequency: 2, Code: 011
+Symbol: U, Frequency: 2, Code: 11
+Symbol: H, Frequency: 1, Code: 1011
+Symbol: E, Frequency: 1, Code: 00011
+Symbol: D, Frequency: 1, Code: 10011
+Decompressed message = CS.UH.EDU

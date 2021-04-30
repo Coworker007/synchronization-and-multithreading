@@ -1,0 +1,9 @@
+7
+C 1
+S 1
+. 2
+U 2
+H 1
+E 1
+D 1
+compfile3.txt

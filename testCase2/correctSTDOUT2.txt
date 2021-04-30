@@ -1,0 +1,11 @@
+Symbol: S, Frequency: 1, Code: 011
+Symbol: P, Frequency: 1, Code: 1011
+Symbol: R, Frequency: 1, Code: 0011
+Symbol: I, Frequency: 1, Code: 10011
+Symbol: N, Frequency: 1, Code: 00011
+Symbol: G, Frequency: 1, Code: 01011
+Symbol: , Frequency: 1, Code: 010011
+Symbol: 2, Frequency: 2, Code: 11
+Symbol: 0, Frequency: 1, Code: 100011
+Symbol: 1, Frequency: 1, Code: 000011
+Decompressed message = SPRING 2021

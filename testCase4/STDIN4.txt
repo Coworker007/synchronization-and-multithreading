@@ -1,0 +1,7 @@
+5
+G 2
+O 3
+  1
+C 1
+S 1
+compfile4.txt

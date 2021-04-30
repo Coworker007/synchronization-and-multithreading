@@ -1,0 +1,6 @@
+Symbol: G, Frequency: 2, Code: 011
+Symbol: O, Frequency: 3, Code: 11
+Symbol: , Frequency: 1, Code: 00011
+Symbol: C, Frequency: 1, Code: 1011
+Symbol: S, Frequency: 1, Code: 0011
+Decompressed message = GO COOGS
